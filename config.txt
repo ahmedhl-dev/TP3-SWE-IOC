@@ -1,0 +1,2 @@
+net.ahmed.ext.DaoImplV2
+net.ahmed.metier.MetierImpl
